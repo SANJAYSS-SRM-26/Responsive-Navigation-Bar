@@ -8,7 +8,7 @@
   Clear and concise structure for easy customization and integration into projects
 
 # Preview:
-  [!navbar](https://github.com/SANJAYSS-SRM-26/Responsive-Navigation-Bar/blob/main/preview%20(5).png)
+  ![navbar](https://github.com/SANJAYSS-SRM-26/Responsive-Navigation-Bar/blob/main/preview%20(5).png)
   
 
 # Usage:
