@@ -8,6 +8,7 @@
   Clear and concise structure for easy customization and integration into projects
 
 # Preview:
+  [!navbar]()
   
 
 # Usage:
